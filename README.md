@@ -16,7 +16,7 @@ Column_3 needs to end with a 1
 ```
 
 **Instructions:**
- 1. Import the ```.sql``` files under the folder ```/SQL Challenge``` as SQL Worksheets in Snowflake
+ 1. Import the ```.sql``` files under the folder ```/SQLChallenge``` as SQL Worksheets in Snowflake
  2. Run the ```SetUp.sql```script (sets up the database, datawarehouse, tables and data)
- 3. Run the ```Challenge.sql```script (runs the challenge query)
+ 3. Run the ```ChallengeTask.sql```script (runs the challenge query)
  4. Run the ```CleanUp.sql``` script (removes the database and datawarehouse when no longer needed)
